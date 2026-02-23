@@ -33,7 +33,7 @@ echo "boleh masuk konser<br>"; //maka yang dijalankan ini, yang penting 1 aja ya
 }
 $prabowo = "mbg";
 $nanamsawit=true;
-if($prabowo=="mbg" || $nanamsawit=true){
+if($prabowo=="mbg" || $nanamsawit==true){
     echo "oke gas <br>";
 } else {
     echo "hey antek antek asing";
