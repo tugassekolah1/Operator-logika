@@ -50,7 +50,7 @@ if (!$hujan) { //dibalik jadi false
 
 
 //LOGIKA XOR
-//Salah 1 tapi tidak keduanya. jadi logika bernilai true jika hanya Salah 1 saja yang benar Dan jika keduanya benar Maka akan false. intinya harus beda
+//Salah 1 tapi tidak keduanya. jadi logika bernilai true jika hanya Salah 1 saja yang benar Dan jika keduanya benar Maka akan false. intinya harus beda semua inputnya
 $es_teh=true;//diembat
 $kopi=true;//diembat
 //diembat semua
