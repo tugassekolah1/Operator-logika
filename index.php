@@ -31,7 +31,13 @@ echo "boleh masuk konser<br>"; //maka yang dijalankan ini, yang penting 1 aja ya
 } else {
    echo " g boleh";
 }
-
+$prabowo = "mbg";
+$nanamsawit=true;
+if($prabowo=="mbg" || $nanamsawit=true){
+    echo "oke gas <br>";
+} else {
+    echo "hey antek antek asing";
+}
 
 //logika not adalah membalikan nilai input, true jaadi false dan sebaliknya
 $korupsi = false; //ini kan false
